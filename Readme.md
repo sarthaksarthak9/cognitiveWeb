@@ -9,7 +9,6 @@ CognitiveWeb is a powerful and innovative AI-powered chatbot that revolutionizes
 - [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Demonstration Video](#demonstration-video)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -82,13 +81,6 @@ CognitiveWeb leverages the power of Retrieval-Augmented Generation (RAG) to fetc
 - **Context Generation**: Combines retrieved text chunks and passes as context to the LLM, along with the user's query and conversation history.
 - **Response Generation**: Generates contextual and relevant responses based on the provided context, query, and conversation history.
 - **User Interface**: Displays the generated response in the Streamlit GUI for seamless conversation continuation.
-
-## Demonstration Video
-
-Watch the demonstration video to see CognitiveWeb in action:
-
-[![CognitiveWeb Demonstration](resources/video_thumbnail.png)](https://www.linkedin.com/feed/update/urn:li:activity:7184972097595535361/)
-
 
 ## Contributing
 
