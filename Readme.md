@@ -27,7 +27,7 @@ This project aims to create an intelligent chatbot capable of understanding and 
 
 1. **Clone the Repository:**
     ```bash
-   https://github.com/devansh1401/CognitiveWeb.git
+   https://github.com/sarthaksarthak9/CognitiveWeb.git
     ```
 
 2. **Navigate to the Project Directory:**
