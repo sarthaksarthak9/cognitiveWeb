@@ -25,7 +25,7 @@ with st.sidebar:
     st.divider()
     st.write("**About CognitiveWeb**")
     st.write("CognitiveWeb is an AI-powered tool that allows you to explore and chat with websites, extracting relevant information to answer your queries.")
-    st.write("Created with ❤️ by [Devansh](https://twitter.com/devansh_1405)")
+    st.write("Created with ❤️ by [Sarthak](https://twitter.com/sarthaknegi009)")
 
 # Get the list of URLs that have been entered
 website_urls = [website_url1, website_url2, website_url3]
